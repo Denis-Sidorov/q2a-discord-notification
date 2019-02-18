@@ -1,0 +1,7 @@
+{
+    "require": {
+        "restcord/restcord": "^0.3.1",
+        "textalk/websocket": "^1.2",
+        "ext-json": "*"
+    }
+}
